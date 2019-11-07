@@ -1,0 +1,10 @@
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.deps.json
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.runtimeconfig.json
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.runtimeconfig.dev.json
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.dll
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.pdb
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.csproj.CoreCompileInputs.cache
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.AssemblyInfoInputs.cache
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.AssemblyInfo.cs
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.dll
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Notes\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.pdb

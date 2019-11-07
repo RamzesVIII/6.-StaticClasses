@@ -1,0 +1,11 @@
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\bin\Debug\netcoreapp2.1\Manager.deps.json
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\bin\Debug\netcoreapp2.1\Manager.runtimeconfig.json
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\bin\Debug\netcoreapp2.1\Manager.runtimeconfig.dev.json
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\bin\Debug\netcoreapp2.1\Manager.dll
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\bin\Debug\netcoreapp2.1\Manager.pdb
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\obj\Debug\netcoreapp2.1\Manager.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\obj\Debug\netcoreapp2.1\Manager.csproj.CoreCompileInputs.cache
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\obj\Debug\netcoreapp2.1\Manager.AssemblyInfoInputs.cache
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\obj\Debug\netcoreapp2.1\Manager.AssemblyInfo.cs
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\obj\Debug\netcoreapp2.1\Manager.dll
+D:\C#\Programming\C# practice\6. StaticClasses\FindAndReplaceManager\Manager\Manager\obj\Debug\netcoreapp2.1\Manager.pdb

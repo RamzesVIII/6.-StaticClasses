@@ -1,0 +1,11 @@
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp2.1\ExtensionMethod.deps.json
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp2.1\ExtensionMethod.runtimeconfig.json
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp2.1\ExtensionMethod.runtimeconfig.dev.json
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp2.1\ExtensionMethod.dll
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp2.1\ExtensionMethod.pdb
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp2.1\ExtensionMethod.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp2.1\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp2.1\ExtensionMethod.AssemblyInfoInputs.cache
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp2.1\ExtensionMethod.AssemblyInfo.cs
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp2.1\ExtensionMethod.dll
+D:\C#\Programming\C# practice\6. StaticClasses\ArrayExtension\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp2.1\ExtensionMethod.pdb
